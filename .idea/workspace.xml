@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b57cf990-c6d9-4e5f-a8f6-f610faacbd3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d3y4R5hYmloT3I7OpIedHQZbIk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.Teste">
+    <configuration name="Configuration.getDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrincadeiraTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="config" />
+      <option name="MAIN_CLASS_NAME" value="config.Configuration" />
+      <option name="METHOD_NAME" value="getDriver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.Teste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste.pesquisa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.Teste" />
+      <option name="METHOD_NAME" value="pesquisa" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Teste" />
+        <item itemvalue="JUnit.Teste.pesquisa" />
+        <item itemvalue="JUnit.Configuration.getDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57cf990-c6d9-4e5f-a8f6-f610faacbd3f" name="Default Changelist" comment="" />
+      <created>1591667882774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591667882774</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Refatoração de código.">
+      <created>1592492125281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592492125281</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adição do respositório.">
+      <created>1592493307127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592493307127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refatoração para classe Cotação.">
+      <created>1592494057842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592494057842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refatoração de código." />
+    <MESSAGE value="Adição do respositório." />
+    <MESSAGE value="Refatoração para classe Cotação." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração para classe Cotação." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="23" key="#Teste.pesquisa" timestamp="1592491456039">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="277" y="23" key="#Teste.pesquisa/0.0.1360.768@0.0.1360.768" timestamp="1592491456039" />
+    <state x="409" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592491450997">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="409" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.768@0.0.1360.768" timestamp="1592491450997" />
+    <state x="476" y="244" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592492078607">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="476" y="244" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.768@0.0.1360.768" timestamp="1592492078607" />
+    <state x="434" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592493357576">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="434" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.768@0.0.1360.768" timestamp="1592493357576" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1592494053792">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1592494053792" />
+    <state width="1317" height="185" key="GridCell.Tab.0.bottom" timestamp="1592496074343">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="185" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1592496074343" />
+    <state width="1317" height="185" key="GridCell.Tab.0.center" timestamp="1592496074343">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="185" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1592496074343" />
+    <state width="1317" height="185" key="GridCell.Tab.0.left" timestamp="1592496074343">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="185" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1592496074343" />
+    <state width="1317" height="185" key="GridCell.Tab.0.right" timestamp="1592496074343">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="185" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1592496074343" />
+    <state width="1317" height="238" key="GridCell.Tab.1.bottom" timestamp="1591711189973">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.1.bottom/0.0.1360.768@0.0.1360.768" timestamp="1591711189973" />
+    <state width="1317" height="238" key="GridCell.Tab.1.center" timestamp="1591711189973">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.1.center/0.0.1360.768@0.0.1360.768" timestamp="1591711189973" />
+    <state width="1317" height="238" key="GridCell.Tab.1.left" timestamp="1591711189973">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.1.left/0.0.1360.768@0.0.1360.768" timestamp="1591711189973" />
+    <state width="1317" height="238" key="GridCell.Tab.1.right" timestamp="1591711189973">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.1.right/0.0.1360.768@0.0.1360.768" timestamp="1591711189973" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1591708927499">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1591708927499" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BrincadeiraTeste$Teste.ic" NAME="Teste Coverage Results" MODIFIED="1591670064637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
